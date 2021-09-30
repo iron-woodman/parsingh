@@ -1,0 +1,4 @@
+baseURL = 'http://parsinghub.ru/'
+languageCode = 'en-us'
+title = 'Парсинг сайтов web scraping'
+theme = 'bigspring-light' 
