@@ -13,5 +13,4 @@ description: Заказать парсинг сайта очень просто.
 * **telegram:** [**alexandro_st**](https://t.me/alexandro_st "telegram")
 * **skype:** [**iron-eggs**](https://join.skype.com/invite/jMVLPEyGYEM1 "skype")
 
-  **Адрес: 
-  115419 Москва, ул. Шаболовка, 34, стр.48, офис 11**
+  **Адрес: 115419 Москва, ул. Шаболовка, 34, стр.48, офис 11**
