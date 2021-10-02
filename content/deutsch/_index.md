@@ -6,7 +6,7 @@ banner:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Оформить"
     link : "contact"
 
 ##################### Feature ##########################
@@ -108,6 +108,6 @@ call_to_action:
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Оформить"
     link : "contact"
 ---

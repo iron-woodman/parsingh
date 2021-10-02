@@ -1,15 +1,16 @@
 ---
-title: "Kontakt"
-subtitle: ""
-# meta description
-description: "Dies ist die Metabeschreibung"
-draft: false
+title: Наши контакты
+subtitle: ''
+description: Заказать парсинг сайта очень просто. Свяжитесь с нами удобным способом.
+
 ---
+### Контакты
 
+Присылайте ваши заявки на парсинг, вопросы, просьбы, предложения. 
 
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+* **Тел: 8 (495) 601-91-37**
+* **e-mail:** [info@parsinghub.ru](https://cp.beget.com/mail/info@parsinghub.ru/settings "info@parsinghub.ru")
+* **telegram:** [**alexandro_st**](https://t.me/alexandro_st "telegram")
+* **skype:** [**iron-eggs**](https://join.skype.com/invite/jMVLPEyGYEM1 "skype")
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+  **Адрес: 115419 Москва, ул. Шаболовка, 34, стр.48, офис 11**

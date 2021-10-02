@@ -1,21 +1,21 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Главная"
 url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
+name = "Блог"
 url = "blog"
 weight = 2
 
 [[main]]
-name = "Pricing"
+name = "Услуги"
 url = "pricing"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "Контакты"
 url = "contact"
 weight = 4
 
@@ -26,38 +26,38 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "О нас"
 url = "#"
 
 [[footer_left]]
-name = "Quick Start"
+name = "Быстрый старт"
 url = "#"
 
 [[footer_left]]
-name = "Pricing"
+name = "Цены"
 url = "pricing"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
+name = "Цены"
 url = "pricing"
 
 [[footer_middle]]
-name = "Platform"
+name = "Платформа"
 url = "#"
 
 [[footer_middle]]
-name = "Features"
+name = "Функции"
 url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
+name = "Политика конфиденциальности"
 url = "privacy-policy"
 
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Условия сотрудничества"
 url = "terms-conditions"
 
 [[footer_right]]

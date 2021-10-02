@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Light"
+baseURL = "http://parsinghub.org/"
+title = "Парсинг сайтов web scraping"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"
@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-BD7FZXWVKC" # UA-209076492-1
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true

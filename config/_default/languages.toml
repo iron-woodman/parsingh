@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
-languageName = "En"
-title = "Bigspring Hugo"
+languageName = "en"
+title = "Web scraping"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -14,16 +14,17 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 
 
 
-############################# Deutsch ############################
+############################# Russain ############################
 [de]
-languageName = "De"
-title = "Bigspring Hugo"
+languageName = "ru"
+title = "Парсинг сайтов веб скарпинг"
 contentDir = "content/deutsch" # content/german
 weight = 2
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
+footer_menu_left = "Компания"
+footer_menu_middle = "Продукты"
+footer_menu_right = "Поддержка"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
 copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+
